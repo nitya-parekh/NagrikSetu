@@ -1,0 +1,490 @@
+{
+  "jurisdiction": "Municipal Corporation of Greater Mumbai (MCGM)",
+  "city": "Mumbai",
+  "data_version": "2026-08-22",
+  "wards_directory": [
+    {
+      "ward_id": "A",
+      "ward_name": "Colaba / Fort",
+      "region": "City",
+      "areas_covered": ["Churchgate", "Colaba", "Navy Nagar", "Fort", "CST", "Crawford Market", "Marine Lines"],
+      "coordinates": { "latitude": 18.9248, "longitude": 72.8315 }
+    },
+    {
+      "ward_id": "B",
+      "ward_name": "Sandhurst Road / Dongri",
+      "region": "City",
+      "areas_covered": ["Masjid Bunder", "Dongri", "Bhendi Bazar", "Umerkhadi", "Sandhurst Road", "Mohd. Ali Road"],
+      "coordinates": { "latitude": 18.9562, "longitude": 72.8385 }
+    },
+    {
+      "ward_id": "C",
+      "ward_name": "Marine Lines / Bhuleshwar",
+      "region": "City",
+      "areas_covered": ["Pydhonie", "Bhuleshwar", "Kalbadevi", "Chira Bazar", "Thakurdwar", "Kumbharwada"],
+      "coordinates": { "latitude": 18.9515, "longitude": 72.8277 }
+    },
+    {
+      "ward_id": "D",
+      "ward_name": "Malabar Hill / Girgaon",
+      "region": "City",
+      "areas_covered": ["Malabar Hill", "Walkeshwar", "Banganga", "Girgaon", "Tardeo", "Grant Road", "Charni Road", "Peddar Road", "Nepean Sea Road", "Breach Candy", "Haji Ali"],
+      "coordinates": { "latitude": 18.9610, "longitude": 72.8080 }
+    },
+    {
+      "ward_id": "E",
+      "ward_name": "Byculla / Mazgaon",
+      "region": "City",
+      "areas_covered": ["Byculla", "Mazgaon", "Agripada", "Nagpada", "Madanpura", "Dockyard Road", "Reay Road", "Chinchpokli", "Kamathipura", "Mumbai Central (East)"],
+      "coordinates": { "latitude": 18.9740, "longitude": 72.8350 }
+    },
+    {
+      "ward_id": "F/North",
+      "ward_name": "Matunga / Sion",
+      "region": "City",
+      "areas_covered": ["Sion", "Matunga (East)", "Wadala", "Antop Hill", "Pratiksha Nagar"],
+      "coordinates": { "latitude": 19.0298, "longitude": 72.8564 }
+    },
+    {
+      "ward_id": "F/South",
+      "ward_name": "Parel / Sewri",
+      "region": "City",
+      "areas_covered": ["Parel", "Sewri", "Lalbaug", "Naigaon", "Bhoiwada"],
+      "coordinates": { "latitude": 18.9950, "longitude": 72.8420 }
+    },
+    {
+      "ward_id": "G/North",
+      "ward_name": "Dadar / Dharavi",
+      "region": "City",
+      "areas_covered": ["Dadar (West)", "Mahim", "Shivaji Park", "Matunga (West)", "Dharavi"],
+      "coordinates": { "latitude": 19.0222, "longitude": 72.8406 }
+    },
+    {
+      "ward_id": "G/South",
+      "ward_name": "Worli / Lower Parel",
+      "region": "City",
+      "areas_covered": ["Worli", "Prabhadevi", "Lower Parel", "Mahalaxmi", "Curry Road"],
+      "coordinates": { "latitude": 19.0028, "longitude": 72.8298 }
+    },
+    {
+      "ward_id": "H/East",
+      "ward_name": "Bandra East / BKC",
+      "region": "Western Suburbs",
+      "areas_covered": ["Bandra (East)", "Khar (East)", "Santacruz (East)", "Kalina", "Vakola", "BKC"],
+      "coordinates": { "latitude": 19.0607, "longitude": 72.8583 }
+    },
+    {
+      "ward_id": "H/West",
+      "ward_name": "Bandra West",
+      "region": "Western Suburbs",
+      "areas_covered": ["Bandra (West)", "Khar (West)", "Santacruz (West)"],
+      "coordinates": { "latitude": 19.0645, "longitude": 72.8358 }
+    },
+    {
+      "ward_id": "K/East",
+      "ward_name": "Andheri East",
+      "region": "Western Suburbs",
+      "areas_covered": ["Andheri (East)", "Jogeshwari (East)", "Vile Parle (East)", "Marol", "Sahar"],
+      "coordinates": { "latitude": 19.1136, "longitude": 72.8697 }
+    },
+    {
+      "ward_id": "K/West",
+      "ward_name": "Andheri West",
+      "region": "Western Suburbs",
+      "areas_covered": ["Andheri (West)", "Jogeshwari (West)", "Vile Parle (West)", "Juhu", "Versova", "Oshiwara", "Lokhandwala"],
+      "coordinates": { "latitude": 19.1363, "longitude": 72.8277 }
+    },
+    {
+      "ward_id": "P/North",
+      "ward_name": "Malad",
+      "region": "Western Suburbs",
+      "areas_covered": ["Malad", "Malwani", "Madh", "Marve", "Manori", "Aksa"],
+      "coordinates": { "latitude": 19.1860, "longitude": 72.8485 }
+    },
+    {
+      "ward_id": "P/South",
+      "ward_name": "Goregaon",
+      "region": "Western Suburbs",
+      "areas_covered": ["Goregaon (East & West)", "Gokuldham", "Oshiwara"],
+      "coordinates": { "latitude": 19.1645, "longitude": 72.8490 }
+    },
+    {
+      "ward_id": "R/Central",
+      "ward_name": "Borivali",
+      "region": "Western Suburbs",
+      "areas_covered": ["Borivali (East & West)", "Gorai", "Chikuwadi"],
+      "coordinates": { "latitude": 19.2307, "longitude": 72.8567 }
+    },
+    {
+      "ward_id": "R/North",
+      "ward_name": "Dahisar",
+      "region": "Western Suburbs",
+      "areas_covered": ["Dahisar (East & West)", "IC Colony"],
+      "coordinates": { "latitude": 19.2570, "longitude": 72.8630 }
+    },
+    {
+      "ward_id": "R/South",
+      "ward_name": "Kandivali",
+      "region": "Western Suburbs",
+      "areas_covered": ["Kandivali (East & West)", "Charkop", "Poisar"],
+      "coordinates": { "latitude": 19.2060, "longitude": 72.8520 }
+    },
+    {
+      "ward_id": "L",
+      "ward_name": "Kurla",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Kurla (East & West)", "Nehru Nagar", "Chunabhatti", "Saki Naka", "Chandivali"],
+      "coordinates": { "latitude": 19.0726, "longitude": 72.8845 }
+    },
+    {
+      "ward_id": "M/East",
+      "ward_name": "Govandi / Mankhurd",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Mankhurd", "Govandi (Shivaji Nagar, Baiganwadi)", "Deonar", "Trombay", "Anushakti Nagar", "Cheetah Camp", "BARC Colony"],
+      "coordinates": { "latitude": 19.0550, "longitude": 72.9320 }
+    },
+    {
+      "ward_id": "M/West",
+      "ward_name": "Chembur",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Chembur", "Tilak Nagar", "Sindhi Society", "Chheda Nagar", "Mahul"],
+      "coordinates": { "latitude": 19.0522, "longitude": 72.9005 }
+    },
+    {
+      "ward_id": "N",
+      "ward_name": "Ghatkopar",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Ghatkopar", "Vidyavihar", "Pant Nagar"],
+      "coordinates": { "latitude": 19.0860, "longitude": 72.9080 }
+    },
+    {
+      "ward_id": "S",
+      "ward_name": "Bhandup / Powai",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Bhandup", "Powai", "Kanjurmarg", "Vikhroli", "Nahur"],
+      "coordinates": { "latitude": 19.1240, "longitude": 72.9180 }
+    },
+    {
+      "ward_id": "T",
+      "ward_name": "Mulund",
+      "region": "Eastern Suburbs",
+      "areas_covered": ["Mulund (East & West)", "Mulund Colony"],
+      "coordinates": { "latitude": 19.1720, "longitude": 72.9560 }
+    }
+  ],
+  "complaints": [
+    {
+      "complaint_id": "CMP-A01",
+      "ward_id": "A",
+      "locality": "Colaba",
+      "location": "Colaba Causeway near Regal Cinema, Colaba",
+      "category": "Broken Streetlight",
+      "description": "Streetlights non-functional along Causeway sidewalk creating safety risk at night.",
+      "status": "In Progress",
+      "date": "2026-08-19",
+      "latitude": 18.9248,
+      "longitude": 72.8315,
+      "duplicate_count": 6,
+      "upvotes": 9,
+      "grievance_tracking_id": "MCGM-2026-44512",
+      "citizen_comments": [
+        { "commenter_name": "Rohan K.", "comment_text": "Still flickering and unlit during evening hours.", "date": "2026-08-20" },
+        { "commenter_name": "Zainab M.", "comment_text": "Reported to ward office last week as well.", "date": "2026-08-21" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-A02",
+      "ward_id": "A",
+      "locality": "Fort",
+      "location": "Shahid Bhagat Singh Marg, Fort",
+      "category": "Pothole / Road Damage",
+      "description": "Deep asphalt crater on road curve right before junction.",
+      "status": "Overdue",
+      "date": "2026-08-21",
+      "latitude": 18.9186,
+      "longitude": 72.8285,
+      "duplicate_count": 19,
+      "upvotes": 26,
+      "grievance_tracking_id": "MCGM-2026-44605",
+      "citizen_comments": [
+        { "commenter_name": "Anil S.", "comment_text": "Taxis swerve abruptly here, very risky during rush hour.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-D01",
+      "ward_id": "D",
+      "locality": "Malabar Hill",
+      "location": "Walkeshwar Road near Banganga steps, Malabar Hill",
+      "category": "Water Leakage / Pipe Burst",
+      "description": "Clean potable water leaking continuously from underground municipal supply pipe.",
+      "status": "In Progress",
+      "date": "2026-08-18",
+      "latitude": 18.9510,
+      "longitude": 72.8010,
+      "duplicate_count": 12,
+      "upvotes": 18,
+      "grievance_tracking_id": "MCGM-2026-44190",
+      "citizen_comments": [
+        { "commenter_name": "Meera D.", "comment_text": "Thousands of liters wasted every morning.", "date": "2026-08-19" },
+        { "commenter_name": "Suresh J.", "comment_text": "Ward engineer inspected on Tuesday, repair pending.", "date": "2026-08-21" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-D02",
+      "ward_id": "D",
+      "locality": "Tardeo",
+      "location": "Pandita Ramabai Marg near Nana Chowk, Grant Road",
+      "category": "Pothole / Road Damage",
+      "description": "Loose paver blocks and depressions causing bike skidding.",
+      "status": "Filed",
+      "date": "2026-08-22",
+      "latitude": 18.9610,
+      "longitude": 72.8120,
+      "duplicate_count": 4,
+      "upvotes": 7,
+      "grievance_tracking_id": "Not yet tracked",
+      "citizen_comments": [
+        { "commenter_name": "Kavita N.", "comment_text": "Paver blocks popped out after recent monsoon shower.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-F01",
+      "ward_id": "F/North",
+      "locality": "Matunga (East)",
+      "location": "Dr. Ambedkar Road near King's Circle, Matunga (East)",
+      "category": "Water Leakage / Pipe Burst",
+      "description": "Pipeline leakage flooding the curb beside bus stop.",
+      "status": "Resolved",
+      "date": "2026-08-18",
+      "latitude": 19.0298,
+      "longitude": 72.8564,
+      "duplicate_count": 9,
+      "upvotes": 14,
+      "grievance_tracking_id": "MCGM-2026-44405",
+      "citizen_comments": [
+        { "commenter_name": "Ganesh I.", "comment_text": "BMC repair van fixed the valve yesterday. Water stopped.", "date": "2026-08-21" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-G01",
+      "ward_id": "G/North",
+      "locality": "Shivaji Park",
+      "location": "Near Sena Bhavan, Shivaji Park, Dadar (West)",
+      "category": "Drainage / Sewage Overflow",
+      "description": "Sewage overflowing on pedestrian pavement causing foul odor and unsanitary conditions.",
+      "status": "In Progress",
+      "date": "2026-08-20",
+      "latitude": 19.0222,
+      "longitude": 72.8406,
+      "duplicate_count": 14,
+      "upvotes": 19,
+      "grievance_tracking_id": "MCGM-2026-44602",
+      "citizen_comments": [
+        { "commenter_name": "Pranav T.", "comment_text": "Sewage backflow happens whenever high tide occurs.", "date": "2026-08-21" },
+        { "commenter_name": "Sneha V.", "comment_text": "Cleanliness staff cleared top debris, suction tanker needed.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-G02",
+      "ward_id": "G/South",
+      "locality": "Lower Parel",
+      "location": "Senapati Bapat Marg near Kamala Mills, Lower Parel",
+      "category": "Drainage / Sewage Overflow",
+      "description": "Open roadside storm drain cover missing, posing serious pedestrian fall hazard.",
+      "status": "Overdue",
+      "date": "2026-08-22",
+      "latitude": 19.0028,
+      "longitude": 72.8298,
+      "duplicate_count": 16,
+      "upvotes": 21,
+      "grievance_tracking_id": "MCGM-2026-44606",
+      "citizen_comments": [
+        { "commenter_name": "Deepak C.", "comment_text": "Cover has been broken for 3 weeks. Barricaded with tree branches.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-H01",
+      "ward_id": "H/West",
+      "locality": "Bandra (West)",
+      "location": "Linking Road near Waterfield Junction, Bandra (West)",
+      "category": "Pothole / Road Damage",
+      "description": "Severe asphalt crater on Linking Road ~15cm deep causing traffic bottlenecks.",
+      "status": "Overdue",
+      "date": "2026-08-14",
+      "latitude": 19.0645,
+      "longitude": 72.8358,
+      "duplicate_count": 17,
+      "upvotes": 24,
+      "grievance_tracking_id": "MCGM-2026-44120",
+      "citizen_comments": [
+        { "commenter_name": "Pooja B.", "comment_text": "Traffic crawls every evening due to this pothole.", "date": "2026-08-15" },
+        { "commenter_name": "Rahul P.", "comment_text": "Temporary cold mix washed away in recent rains.", "date": "2026-08-17" },
+        { "commenter_name": "Fatima S.", "comment_text": "Still not fixed as of last week.", "date": "2026-08-21" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-H02",
+      "ward_id": "H/West",
+      "locality": "Khar (West)",
+      "location": "14th Road Junction near Khar Gymkhana, Khar (West)",
+      "category": "Garbage Accumulation",
+      "description": "Unattended municipal garbage bin overflow spilling onto footpath.",
+      "status": "In Progress",
+      "date": "2026-08-19",
+      "latitude": 19.0700,
+      "longitude": 72.8330,
+      "duplicate_count": 5,
+      "upvotes": 11,
+      "grievance_tracking_id": "MCGM-2026-44133",
+      "citizen_comments": [
+        { "commenter_name": "Vikram K.", "comment_text": "Garbage truck misses alternate days on this lane.", "date": "2026-08-20" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-H03",
+      "ward_id": "H/East",
+      "locality": "BKC",
+      "location": "BKC Connector Flyover exit ramp, Bandra (East)",
+      "category": "Pothole / Road Damage",
+      "description": "Bitumen erosion and pothole cluster at flyover off-ramp.",
+      "status": "Overdue",
+      "date": "2026-08-22",
+      "latitude": 19.0607,
+      "longitude": 72.8583,
+      "duplicate_count": 27,
+      "upvotes": 35,
+      "grievance_tracking_id": "MCGM-2026-44609",
+      "citizen_comments": [
+        { "commenter_name": "Arman K.", "comment_text": "Very dangerous when coming down the flyover at speed.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-K01",
+      "ward_id": "K/West",
+      "locality": "Andheri (West)",
+      "location": "Link Road near Infiniti Mall, Andheri (West)",
+      "category": "Pothole / Road Damage",
+      "description": "Series of large potholes along the metro construction boundary.",
+      "status": "Overdue",
+      "date": "2026-08-20",
+      "latitude": 19.1415,
+      "longitude": 72.8310,
+      "duplicate_count": 28,
+      "upvotes": 39,
+      "grievance_tracking_id": "MCGM-2026-44601",
+      "citizen_comments": [
+        { "commenter_name": "Neha R.", "comment_text": "Two-wheelers skid every evening on this gravel patch.", "date": "2026-08-21" },
+        { "commenter_name": "Amit B.", "comment_text": "This has been an issue for months.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-K02",
+      "ward_id": "K/East",
+      "locality": "Marol",
+      "location": "Andheri-Kurla Road near Marol Naka Metro, Andheri (East)",
+      "category": "Pothole / Road Damage",
+      "description": "Cracked pavement and road subsidence under metro pillar 84.",
+      "status": "In Progress",
+      "date": "2026-08-17",
+      "latitude": 19.1136,
+      "longitude": 72.8697,
+      "duplicate_count": 34,
+      "upvotes": 45,
+      "grievance_tracking_id": "MCGM-2026-44310",
+      "citizen_comments": [
+        { "commenter_name": "Tariq A.", "comment_text": "BMC asphalt roller arrived yesterday, patchwork underway.", "date": "2026-08-20" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-P01",
+      "ward_id": "P/South",
+      "locality": "Goregaon (East & West)",
+      "location": "SV Road near Goregaon Station Flyover, Goregaon (West)",
+      "category": "Garbage Accumulation",
+      "description": "Illegal commercial dumping in vacant municipal plot adjacent to station road.",
+      "status": "Filed",
+      "date": "2026-08-21",
+      "latitude": 19.1645,
+      "longitude": 72.8490,
+      "duplicate_count": 15,
+      "upvotes": 22,
+      "grievance_tracking_id": "MCGM-2026-44701",
+      "citizen_comments": [
+        { "commenter_name": "Sunil M.", "comment_text": "Attracting stray cattle and blocking sidewalk.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-R01",
+      "ward_id": "R/Central",
+      "locality": "Borivali (East & West)",
+      "location": "SV Road near Shimpoli Signal, Borivali (West)",
+      "category": "Pothole / Road Damage",
+      "description": "Broken pavement and deep pothole causing traffic pile-up on north-bound lane.",
+      "status": "Overdue",
+      "date": "2026-08-22",
+      "latitude": 19.2307,
+      "longitude": 72.8567,
+      "duplicate_count": 31,
+      "upvotes": 44,
+      "grievance_tracking_id": "MCGM-2026-44607",
+      "citizen_comments": [
+        { "commenter_name": "Bhavin P.", "comment_text": "Multiple complaints filed on BMC portal without resolution.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-L01",
+      "ward_id": "L",
+      "locality": "Kurla (East & West)",
+      "location": "LBS Marg Junction near Phoenix Marketcity, Kurla (West)",
+      "category": "Garbage Accumulation",
+      "description": "Overflowing waste dumper container encroaching onto arterial carriageway.",
+      "status": "Overdue",
+      "date": "2026-08-21",
+      "latitude": 19.0726,
+      "longitude": 72.8845,
+      "duplicate_count": 41,
+      "upvotes": 52,
+      "grievance_tracking_id": "MCGM-2026-44603",
+      "citizen_comments": [
+        { "commenter_name": "Nasir H.", "comment_text": "Completely blocks left lane towards Saki Naka.", "date": "2026-08-21" },
+        { "commenter_name": "Ramesh D.", "comment_text": "Needs daily morning clearance.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-M01",
+      "ward_id": "M/West",
+      "locality": "Chembur",
+      "location": "Diamond Garden Circle, Chembur",
+      "category": "Broken Streetlight",
+      "description": "Three consecutive light poles dark along garden perimeter walkway.",
+      "status": "Resolved",
+      "date": "2026-08-21",
+      "latitude": 19.0522,
+      "longitude": 72.9005,
+      "duplicate_count": 11,
+      "upvotes": 15,
+      "grievance_tracking_id": "MCGM-2026-44604",
+      "citizen_comments": [
+        { "commenter_name": "Ashok K.", "comment_text": "New LED fittings installed by junior engineer team.", "date": "2026-08-22" }
+      ]
+    },
+    {
+      "complaint_id": "CMP-S01",
+      "ward_id": "S",
+      "locality": "Powai",
+      "location": "Hiranandani Gardens Main Street, Powai",
+      "category": "Drainage / Sewage Overflow",
+      "description": "Clogged stormwater grating resulting in waterlogging during mild drizzle.",
+      "status": "Filed",
+      "date": "2026-08-22",
+      "latitude": 19.1240,
+      "longitude": 72.9180,
+      "duplicate_count": 8,
+      "upvotes": 13,
+      "grievance_tracking_id": "Not yet tracked",
+      "citizen_comments": [
+        { "commenter_name": "Ishan T.", "comment_text": "Leaves and plastic cup debris clogging the iron grate.", "date": "2026-08-22" }
+      ]
+    }
+  ]
+}

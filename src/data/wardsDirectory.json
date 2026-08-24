@@ -1,0 +1,170 @@
+[
+  {
+    "ward_id": "A",
+    "ward_name": "Colaba / Fort",
+    "region": "City",
+    "areas_covered": ["Churchgate", "Colaba", "Navy Nagar", "Fort", "CST", "Crawford Market", "Marine Lines"],
+    "coordinates": { "latitude": 18.9248, "longitude": 72.8315 }
+  },
+  {
+    "ward_id": "B",
+    "ward_name": "Sandhurst Road / Dongri",
+    "region": "City",
+    "areas_covered": ["Masjid Bunder", "Dongri", "Bhendi Bazar", "Umerkhadi", "Sandhurst Road", "Mohd. Ali Road"],
+    "coordinates": { "latitude": 18.9562, "longitude": 72.8385 }
+  },
+  {
+    "ward_id": "C",
+    "ward_name": "Marine Lines / Bhuleshwar",
+    "region": "City",
+    "areas_covered": ["Pydhonie", "Bhuleshwar", "Kalbadevi", "Chira Bazar", "Thakurdwar", "Kumbharwada"],
+    "coordinates": { "latitude": 18.9515, "longitude": 72.8277 }
+  },
+  {
+    "ward_id": "D",
+    "ward_name": "Malabar Hill / Girgaon",
+    "region": "City",
+    "areas_covered": ["Malabar Hill", "Walkeshwar", "Banganga", "Girgaon", "Tardeo", "Grant Road", "Charni Road", "Peddar Road", "Nepean Sea Road", "Breach Candy", "Haji Ali"],
+    "coordinates": { "latitude": 18.9610, "longitude": 72.8080 }
+  },
+  {
+    "ward_id": "E",
+    "ward_name": "Byculla / Mazgaon",
+    "region": "City",
+    "areas_covered": ["Byculla", "Mazgaon", "Agripada", "Nagpada", "Madanpura", "Dockyard Road", "Reay Road", "Chinchpokli", "Kamathipura", "Mumbai Central (East)"],
+    "coordinates": { "latitude": 18.9740, "longitude": 72.8350 }
+  },
+  {
+    "ward_id": "F/North",
+    "ward_name": "Matunga / Sion",
+    "region": "City",
+    "areas_covered": ["Sion", "Matunga (East)", "Wadala", "Antop Hill", "Pratiksha Nagar"],
+    "coordinates": { "latitude": 19.0298, "longitude": 72.8564 }
+  },
+  {
+    "ward_id": "F/South",
+    "ward_name": "Parel / Sewri",
+    "region": "City",
+    "areas_covered": ["Parel", "Sewri", "Lalbaug", "Naigaon", "Bhoiwada"],
+    "coordinates": { "latitude": 18.9950, "longitude": 72.8420 }
+  },
+  {
+    "ward_id": "G/North",
+    "ward_name": "Dadar / Dharavi",
+    "region": "City",
+    "areas_covered": ["Dadar (West)", "Mahim", "Shivaji Park", "Matunga (West)", "Dharavi"],
+    "coordinates": { "latitude": 19.0222, "longitude": 72.8406 }
+  },
+  {
+    "ward_id": "G/South",
+    "ward_name": "Worli / Lower Parel",
+    "region": "City",
+    "areas_covered": ["Worli", "Prabhadevi", "Lower Parel", "Mahalaxmi", "Curry Road"],
+    "coordinates": { "latitude": 19.0028, "longitude": 72.8298 }
+  },
+  {
+    "ward_id": "H/East",
+    "ward_name": "Bandra East / BKC",
+    "region": "Western Suburbs",
+    "areas_covered": ["Bandra (East)", "Khar (East)", "Santacruz (East)", "Kalina", "Vakola", "BKC"],
+    "coordinates": { "latitude": 19.0607, "longitude": 72.8583 }
+  },
+  {
+    "ward_id": "H/West",
+    "ward_name": "Bandra West",
+    "region": "Western Suburbs",
+    "areas_covered": ["Bandra (West)", "Khar (West)", "Santacruz (West)"],
+    "coordinates": { "latitude": 19.0645, "longitude": 72.8358 }
+  },
+  {
+    "ward_id": "K/East",
+    "ward_name": "Andheri East",
+    "region": "Western Suburbs",
+    "areas_covered": ["Andheri (East)", "Jogeshwari (East)", "Vile Parle (East)", "Marol", "Sahar"],
+    "coordinates": { "latitude": 19.1136, "longitude": 72.8697 }
+  },
+  {
+    "ward_id": "K/West",
+    "ward_name": "Andheri West",
+    "region": "Western Suburbs",
+    "areas_covered": ["Andheri (West)", "Jogeshwari (West)", "Vile Parle (West)", "Juhu", "Versova", "Oshiwara", "Lokhandwala"],
+    "coordinates": { "latitude": 19.1363, "longitude": 72.8277 }
+  },
+  {
+    "ward_id": "P/North",
+    "ward_name": "Malad",
+    "region": "Western Suburbs",
+    "areas_covered": ["Malad", "Malwani", "Madh", "Marve", "Manori", "Aksa"],
+    "coordinates": { "latitude": 19.1860, "longitude": 72.8485 }
+  },
+  {
+    "ward_id": "P/South",
+    "ward_name": "Goregaon",
+    "region": "Western Suburbs",
+    "areas_covered": ["Goregaon (East & West)", "Gokuldham", "Oshiwara"],
+    "coordinates": { "latitude": 19.1645, "longitude": 72.8490 }
+  },
+  {
+    "ward_id": "R/Central",
+    "ward_name": "Borivali",
+    "region": "Western Suburbs",
+    "areas_covered": ["Borivali (East & West)", "Gorai", "Chikuwadi"],
+    "coordinates": { "latitude": 19.2307, "longitude": 72.8567 }
+  },
+  {
+    "ward_id": "R/North",
+    "ward_name": "Dahisar",
+    "region": "Western Suburbs",
+    "areas_covered": ["Dahisar (East & West)", "IC Colony"],
+    "coordinates": { "latitude": 19.2570, "longitude": 72.8630 }
+  },
+  {
+    "ward_id": "R/South",
+    "ward_name": "Kandivali",
+    "region": "Western Suburbs",
+    "areas_covered": ["Kandivali (East & West)", "Charkop", "Poisar"],
+    "coordinates": { "latitude": 19.2060, "longitude": 72.8520 }
+  },
+  {
+    "ward_id": "L",
+    "ward_name": "Kurla",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Kurla (East & West)", "Nehru Nagar", "Chunabhatti", "Saki Naka", "Chandivali"],
+    "coordinates": { "latitude": 19.0726, "longitude": 72.8845 }
+  },
+  {
+    "ward_id": "M/East",
+    "ward_name": "Govandi / Mankhurd",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Mankhurd", "Govandi (Shivaji Nagar, Baiganwadi)", "Deonar", "Trombay", "Anushakti Nagar", "Cheetah Camp", "BARC Colony"],
+    "coordinates": { "latitude": 19.0550, "longitude": 72.9320 }
+  },
+  {
+    "ward_id": "M/West",
+    "ward_name": "Chembur",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Chembur", "Tilak Nagar", "Sindhi Society", "Chheda Nagar", "Mahul"],
+    "coordinates": { "latitude": 19.0522, "longitude": 72.9005 }
+  },
+  {
+    "ward_id": "N",
+    "ward_name": "Ghatkopar",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Ghatkopar", "Vidyavihar", "Pant Nagar"],
+    "coordinates": { "latitude": 19.0860, "longitude": 72.9080 }
+  },
+  {
+    "ward_id": "S",
+    "ward_name": "Bhandup / Powai",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Bhandup", "Powai", "Kanjurmarg", "Vikhroli", "Nahur"],
+    "coordinates": { "latitude": 19.1240, "longitude": 72.9180 }
+  },
+  {
+    "ward_id": "T",
+    "ward_name": "Mulund",
+    "region": "Eastern Suburbs",
+    "areas_covered": ["Mulund (East & West)", "Mulund Colony"],
+    "coordinates": { "latitude": 19.1720, "longitude": 72.9560 }
+  }
+]
